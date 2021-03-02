@@ -1,1 +1,5 @@
-# k8s
+# Learning kubernetes
+
+- Oreilly
+- Udemy
+- Books
